@@ -79,5 +79,12 @@ namespace CalculatorConsoleApp
             {
                 Console.WriteLine("Maaf, menu yang anda pilih tidak tersedia");
             }
+            
+            // key exit
+            Console.Write("Tekan sembarang key untuk keluar...");
+            Console.ReadKey();
+        }
+    }
+}
         
         
