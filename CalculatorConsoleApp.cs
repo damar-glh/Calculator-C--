@@ -54,5 +54,30 @@ namespace CalculatorConsoleApp
 
             // inputan
             choice = int.Parse(Console.ReadLine());
+            
+            if (choice == 1)
+            {
+                Inputan(out a, out b);
+                Console.WriteLine("Hasil Penambahan " + a + " + " + b + " = " + Penambahan(a, b));
+            }
+            else if (choice == 2)
+            {
+                Inputan(out a, out b);
+                Console.WriteLine("Hasil Pengurangan " + a + " - " + b + " = " + Pengurangan(a, b));
+            }
+            else if (choice == 3)
+            {
+                Inputan(out a, out b);
+                Console.WriteLine("Hasil Perkalian " + a + " * " + b + " = " + Perkalian(a, b));
+            }
+            else if (choice == 4)
+            {
+                Inputan(out a, out b);
+                Console.WriteLine("Hasil Pembagian " + a + " / " + b + " = " + Pembagian(a, b));
+            }
+            else
+            {
+                Console.WriteLine("Maaf, menu yang anda pilih tidak tersedia");
+            }
         
         
