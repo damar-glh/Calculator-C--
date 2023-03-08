@@ -21,3 +21,15 @@ namespace CalculatorConsoleApp
         {
             return a / b;
         }
+        
+        //function inputan
+        static void Inputan(out int a, out int b)
+        { // mengubah parameter input menjadi out parameter
+            Console.Write("\nInputkan nilai a = ");
+            a = int.Parse(Console.ReadLine());
+
+            Console.Write("Inputkan nilai b = ");
+            b = int.Parse(Console.ReadLine());
+        }
+        
+        
