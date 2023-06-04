@@ -13,3 +13,18 @@ D:\AMIKOM\SEM 2\PEMROGRAMAN\P 4\TheCofeeMachine\TheCofeeMachine\obj\Debug\net6.0
 D:\AMIKOM\SEM 2\PEMROGRAMAN\P 4\TheCofeeMachine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.pdb
 D:\AMIKOM\SEM 2\PEMROGRAMAN\P 4\TheCofeeMachine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.genruntimeconfig.cache
 D:\AMIKOM\SEM 2\PEMROGRAMAN\P 4\TheCofeeMachine\TheCofeeMachine\obj\Debug\net6.0\ref\TheCofeeMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\bin\Debug\net6.0\TheCofeeMachine.exe
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\bin\Debug\net6.0\TheCofeeMachine.deps.json
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\bin\Debug\net6.0\TheCofeeMachine.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\bin\Debug\net6.0\TheCofeeMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\bin\Debug\net6.0\TheCofeeMachine.pdb
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\refint\TheCofeeMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.pdb
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\TheCofeeMachine.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\coffe-machine\TheCofeeMachine\obj\Debug\net6.0\ref\TheCofeeMachine.dll

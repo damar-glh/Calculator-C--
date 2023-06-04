@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AMIKOM\\SEM 2\\PEMROGRAMAN\\P 4\\TheCofeeMachine\\TheCofeeMachine\\TheCofeeMachine.csproj": {}
+    "C:\\22.11.5209\\Pemro-C-Sharp\\coffe-machine\\TheCofeeMachine\\TheCofeeMachine.csproj": {}
   },
   "projects": {
-    "D:\\AMIKOM\\SEM 2\\PEMROGRAMAN\\P 4\\TheCofeeMachine\\TheCofeeMachine\\TheCofeeMachine.csproj": {
+    "C:\\22.11.5209\\Pemro-C-Sharp\\coffe-machine\\TheCofeeMachine\\TheCofeeMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AMIKOM\\SEM 2\\PEMROGRAMAN\\P 4\\TheCofeeMachine\\TheCofeeMachine\\TheCofeeMachine.csproj",
+        "projectUniqueName": "C:\\22.11.5209\\Pemro-C-Sharp\\coffe-machine\\TheCofeeMachine\\TheCofeeMachine.csproj",
         "projectName": "TheCofeeMachine",
-        "projectPath": "D:\\AMIKOM\\SEM 2\\PEMROGRAMAN\\P 4\\TheCofeeMachine\\TheCofeeMachine\\TheCofeeMachine.csproj",
+        "projectPath": "C:\\22.11.5209\\Pemro-C-Sharp\\coffe-machine\\TheCofeeMachine\\TheCofeeMachine.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\AMIKOM\\SEM 2\\PEMROGRAMAN\\P 4\\TheCofeeMachine\\TheCofeeMachine\\obj\\",
+        "outputPath": "C:\\22.11.5209\\Pemro-C-Sharp\\coffe-machine\\TheCofeeMachine\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
