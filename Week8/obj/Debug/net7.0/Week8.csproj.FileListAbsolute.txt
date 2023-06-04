@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\Week8\bin\Debug\net7.0\Week8.exe
+C:\22.11.5209\Pemro-C-Sharp\Week8\bin\Debug\net7.0\Week8.deps.json
+C:\22.11.5209\Pemro-C-Sharp\Week8\bin\Debug\net7.0\Week8.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\Week8\bin\Debug\net7.0\Week8.dll
+C:\22.11.5209\Pemro-C-Sharp\Week8\bin\Debug\net7.0\Week8.pdb
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.dll
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\refint\Week8.dll
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.pdb
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\Week8.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\Week8\obj\Debug\net7.0\ref\Week8.dll
