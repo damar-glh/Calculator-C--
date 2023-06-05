@@ -7,7 +7,7 @@
      Console.WriteLine("2. Canon");
      Console.WriteLine("3. LasetJet\n");
 
-     Console.WriteLine("Nomor Printer [1..3] : ");
+     Console.Write("Nomor Printer [1..3] : ");
      int nomorPrinter = Convert.ToInt32(Console.ReadLine());
 
      if (nomorPrinter == 1){
