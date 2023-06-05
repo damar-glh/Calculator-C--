@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\bin\Debug\net7.0\LatihanPolumorphism.exe
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\bin\Debug\net7.0\LatihanPolumorphism.deps.json
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\bin\Debug\net7.0\LatihanPolumorphism.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\bin\Debug\net7.0\LatihanPolumorphism.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\bin\Debug\net7.0\LatihanPolumorphism.pdb
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\refint\LatihanPolumorphism.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.pdb
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\LatihanPolumorphism.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanPolumorphism\obj\Debug\net7.0\ref\LatihanPolumorphism.dll
