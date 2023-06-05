@@ -2,7 +2,7 @@
     static void Main(string[] args){
      PrinterWindows printer;
 
-     Console.WriteLine("Pilih Printer : ");
+     Console.WriteLine("\nPilih Printer : ");
      Console.WriteLine("1. Epson");
      Console.WriteLine("2. Canon");
      Console.WriteLine("3. LasetJet\n");
