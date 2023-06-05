@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\bin\Debug\net7.0\printer-windows.exe
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\bin\Debug\net7.0\printer-windows.deps.json
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\bin\Debug\net7.0\printer-windows.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\bin\Debug\net7.0\printer-windows.dll
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\bin\Debug\net7.0\printer-windows.pdb
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.dll
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\refint\printer-windows.dll
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.pdb
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\printer-windows.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\printer-windows\obj\Debug\net7.0\ref\printer-windows.dll

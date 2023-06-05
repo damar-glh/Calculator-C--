@@ -1,4 +1,5 @@
-﻿static void Main(string[] args){
+﻿class Program {
+    static void Main(string[] args){
     Animal animal = new Animal();
     animal.Speak();
     
@@ -16,4 +17,5 @@
     animal = dog;
     // dog.Speak();
     animal.Speak();
+}
 }
