@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\bin\Debug\net7.0\LatihanInterface.exe
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\bin\Debug\net7.0\LatihanInterface.deps.json
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\bin\Debug\net7.0\LatihanInterface.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\bin\Debug\net7.0\LatihanInterface.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\bin\Debug\net7.0\LatihanInterface.pdb
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\refint\LatihanInterface.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.pdb
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\LatihanInterface.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanInterface\obj\Debug\net7.0\ref\LatihanInterface.dll
