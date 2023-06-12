@@ -5,7 +5,7 @@ class PersegiPanjang : BangunDatar, IluasBangunDatar{
         this.panjang = panjang;
         this.lebar = lebar;
     }
-    public override double HitungLuas(){
+    public override double HitungLuas(){ // override menandakan polymorphism
         return panjang * lebar;
     }
 }

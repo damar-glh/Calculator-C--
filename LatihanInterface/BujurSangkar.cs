@@ -4,7 +4,7 @@ class BujurSangkar : BangunDatar, IluasBangunDatar{
         this.sisi = sisi;
     }
 
-    public override double HitungLuas(){
+    public override double HitungLuas(){ // override menandakan polymorphism
         return sisi * sisi;
     }
 }
