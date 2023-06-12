@@ -1,4 +1,4 @@
-class BujurSangkar : BangunDatar, IluasBangunDatar{
+class BujurSangkar : BangunDatar, IluasBangunDatar{ // inheritance & interface
     private double sisi;
     public BujurSangkar(double sisi){
         this.sisi = sisi;

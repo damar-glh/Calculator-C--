@@ -1,4 +1,4 @@
-class Segitiga : BangunDatar , IluasBangunDatar{ 
+class Segitiga : BangunDatar , IluasBangunDatar{ // inheritance & interface
     private double alas;
     private double tinggi;
     public Segitiga(double alas, double tinggi){
