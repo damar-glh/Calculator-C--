@@ -1,0 +1,5 @@
+C:\22.11.5209\Pemro-C-Sharp\task-inheritance-polymorphism-interface\obj\Debug\net7.0\task-inheritance-polymorphism-interface.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\task-inheritance-polymorphism-interface\obj\Debug\net7.0\task-inheritance-polymorphism-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\task-inheritance-polymorphism-interface\obj\Debug\net7.0\task-inheritance-polymorphism-interface.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\task-inheritance-polymorphism-interface\obj\Debug\net7.0\task-inheritance-polymorphism-interface.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\task-inheritance-polymorphism-interface\obj\Debug\net7.0\task-inheritance-polymorphism-interface.csproj.CoreCompileInputs.cache
