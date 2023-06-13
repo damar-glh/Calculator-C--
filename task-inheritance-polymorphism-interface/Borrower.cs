@@ -1,16 +1,22 @@
-public class Borrower :ItemLibrary, Loan
+public class Borrower : ItemLibrary, ILoanable
 {
-    public string Name{get; set;}
-    public int Sin{get; set;}
-     public override void Print()
+    public string Name { get; set; }
+    public string SIN { get; set; }
+
+    public override void Print()
     {
         Console.WriteLine("Borrower:");
         Console.WriteLine("Name: " + Name);
         Console.WriteLine("SIN: " + SIN);
     }
-     public void Borrow()
+
+    public void Borrow()
     {
         Console.WriteLine("Borrower '" + Name + "' has borrowed an item.");
     }
-    public void Return(){}
-} 
+
+    public void Return()
+    {
+        Console.WriteLine("Borrower '" + Name + "' has returned an item.");
+    }
+}

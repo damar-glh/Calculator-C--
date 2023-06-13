@@ -1,16 +1,22 @@
-public class Returner :ItemLibrary, Loan
+public class Returner : ItemLibrary, ILoanable
 {
-    public string Name{get; set;}
-    public int Sin{get; set;}
+    public string Name { get; set; }
+    public string SIN { get; set; }
+
     public override void Print()
     {
         Console.WriteLine("Returner:");
         Console.WriteLine("Name: " + Name);
         Console.WriteLine("SIN: " + SIN);
     }
-    public void Borrow(){}
+
+    public void Borrow()
+    {
+        Console.WriteLine("Returner '" + Name + "' has borrowed an item.");
+    }
+
     public void Return()
     {
-        System.Console.WriteLine("Book " + title + " has been returned by " + name + " with sin " + sin);
+        Console.WriteLine("Returner '" + Name + "' has returned an item.");
     }
-} 
+}

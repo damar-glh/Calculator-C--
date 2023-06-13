@@ -1,6 +1,5 @@
-
-public interface Loan
+public interface ILoanable
 {
-    public void Borrow();
-    public void Return();
-};
+    void Borrow();
+    void Return();
+}

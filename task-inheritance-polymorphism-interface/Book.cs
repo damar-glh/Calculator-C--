@@ -1,19 +1,21 @@
-
-class Book : ItemLibrary, Loan
+public class Book : ItemLibrary, ILoanable
 {
-    public string Author {get; set;}
+    public string Author { get; set; }
+
     public override void Print()
     {
-        Console.WriteLine("Book   :");
-        Console.WriteLine("Title  : " + Title);
-        Console.WriteLine("Author : " + Author);
+        Console.WriteLine("Book:");
+        Console.WriteLine("Title: " + Title);
+        Console.WriteLine("Author: " + Author);
     }
+
     public void Borrow()
     {
-        System.Console.WriteLine("Book " + Title + " has been borrowed.");
+        Console.WriteLine("Book '" + Title + "' has been borrowed.");
     }
+
     public void Return()
     {
-        System.Console.WriteLine("Book " + Title + " has been return.");
+        Console.WriteLine("Book '" + Title + "' has been returned.");
     }
-} 
+}

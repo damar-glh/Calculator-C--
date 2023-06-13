@@ -30,7 +30,7 @@
             {
                 ILoanable loanableItem = (ILoanable)item;
                 loanableItem.Borrow();
-                loanableItem.Return();
+                // loanableItem.Return();
             }
 
             Console.WriteLine();
