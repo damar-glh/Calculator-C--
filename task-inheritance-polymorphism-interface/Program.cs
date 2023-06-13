@@ -20,12 +20,14 @@
             SIN = "0987654321"
         };
 
+        //polymorphism
         ItemLibrary[] items = new ItemLibrary[] { book, borrower, returner };
 
         foreach (ItemLibrary item in items)
         {
             item.Print();
 
+            //interface
             if (item is ILoanable)
             {
                 ILoanable loanableItem = (ILoanable)item;
