@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\bin\Debug\net7.0\latihanabstract.exe
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\bin\Debug\net7.0\latihanabstract.deps.json
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\bin\Debug\net7.0\latihanabstract.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\bin\Debug\net7.0\latihanabstract.dll
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\bin\Debug\net7.0\latihanabstract.pdb
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.dll
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\refint\latihanabstract.dll
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.pdb
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\latihanabstract.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\latihanabstract\obj\Debug\net7.0\ref\latihanabstract.dll
