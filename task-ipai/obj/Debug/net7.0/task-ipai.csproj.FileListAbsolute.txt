@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\bin\Debug\net7.0\task-ipai.exe
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\bin\Debug\net7.0\task-ipai.deps.json
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\bin\Debug\net7.0\task-ipai.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\bin\Debug\net7.0\task-ipai.dll
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\bin\Debug\net7.0\task-ipai.pdb
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.dll
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\refint\task-ipai.dll
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.pdb
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\task-ipai.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\task-ipai\obj\Debug\net7.0\ref\task-ipai.dll
