@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\bin\Debug\net7.0\LatihanList2.exe
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\bin\Debug\net7.0\LatihanList2.deps.json
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\bin\Debug\net7.0\LatihanList2.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\bin\Debug\net7.0\LatihanList2.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\bin\Debug\net7.0\LatihanList2.pdb
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\refint\LatihanList2.dll
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.pdb
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\LatihanList2.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\LatihanList2\obj\Debug\net7.0\ref\LatihanList2.dll
