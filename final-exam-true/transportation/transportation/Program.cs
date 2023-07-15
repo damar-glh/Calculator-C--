@@ -1,15 +1,18 @@
 ﻿class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Selamat datang di Aplikasi Pemesanan Tiket");
-            Console.WriteLine("----------------------------------------");
+        List<TicketTransportasi> tiketList = new List<TicketTransportasi>();
 
-            TicketBookingSystem bookingSystem = new TicketBookingSystem();
-            bookingSystem.StartBookingProcess();
-
-            Console.WriteLine("----------------------------------------");
-            Console.WriteLine("Tekan sembarang tombol untuk keluar...");
-            Console.ReadKey();
-        }
+        // menu
+        System.Console.WriteLine("==========================");
+        System.Console.WriteLine("=   Ticket Transportasi  =");
+        System.Console.WriteLine("==========================");
+        System.Console.WriteLine("1. Add Ticket");
+        System.Console.WriteLine("2. Delete Ticket");
+        System.Console.WriteLine("3. Ticket List");
+        System.Console.WriteLine("==========================");
+        System.Console.WriteLine("Enter your choice : ");
+        int pilihan = int.Parse(Console.Read());
     }
+}
