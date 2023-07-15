@@ -1,13 +1,13 @@
 // Inheritance: Mewarisi sifat-sifat dari kelas Character
 public class Enemy:Character {
     private int health;
-    public Enemy(string name, int health){
+    public Enemy(string name, int health) {
         Name = name;
         this.health = health;
     }
 
     // Encapsulation: Menggunakan properti untuk mengakses dan memodifikasi data terkait
-    public int Health{
+    public int Health {
         get{return health; }
         set{health = value; }
     }
