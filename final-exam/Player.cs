@@ -2,7 +2,7 @@
 
 public class Player : Character {
     private int experiencePoints;
-    public Player(string name, int experiencePoints){
+    public Player(string name, int experiencePoints) {
         Name = name;
         this.experiencePoints = experiencePoints;
     }
