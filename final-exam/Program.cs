@@ -1,6 +1,6 @@
 ﻿public class Program {
     public static void Main(string[] args) {
-        Player player = new Player("Player 1", 150);
+        Player player = new Player("Player 1");
         Enemy enemy = new Enemy("Wizard", 100);
 
         player.Attack();

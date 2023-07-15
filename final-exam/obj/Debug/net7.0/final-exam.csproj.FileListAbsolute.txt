@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam\bin\Debug\net7.0\final-exam.exe
+C:\22.11.5209\Pemro-C-Sharp\final-exam\bin\Debug\net7.0\final-exam.deps.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam\bin\Debug\net7.0\final-exam.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam\bin\Debug\net7.0\final-exam.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam\bin\Debug\net7.0\final-exam.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\refint\final-exam.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\final-exam.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam\obj\Debug\net7.0\ref\final-exam.dll

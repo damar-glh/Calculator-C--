@@ -1,16 +1,8 @@
 // Inheritance: Mewarisi sifat-sifat dari kelas Character
 
 public class Player : Character {
-    private int experiencePoints;
-    public Player(string name, int experiencePoints) {
+    public Player(string name) {
         Name = name;
-        this.experiencePoints = experiencePoints;
-    }
-
-    // Encapsulation: Menggunakan properti untuk mengakses dan memodifikasi data terkait
-    public int experiencePoints {
-        get{return experiencePoints; }
-        set{experiencePoints = value; }
     }
 
     // Polymorphism: Mengganti metode abstrak Attack() dengan implementasi khusus
