@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\bin\Debug\net7.0\encapsulation.exe
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\bin\Debug\net7.0\encapsulation.deps.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\bin\Debug\net7.0\encapsulation.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\bin\Debug\net7.0\encapsulation.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\bin\Debug\net7.0\encapsulation.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\refint\encapsulation.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\encapsulation.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\encapsulation\encapsulation\obj\Debug\net7.0\ref\encapsulation.dll
