@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\bin\Debug\net7.0\polimorphism.exe
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\bin\Debug\net7.0\polimorphism.deps.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\bin\Debug\net7.0\polimorphism.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\bin\Debug\net7.0\polimorphism.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\bin\Debug\net7.0\polimorphism.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\refint\polimorphism.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\polimorphism.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\polimorphism\polimorphism\obj\Debug\net7.0\ref\polimorphism.dll
