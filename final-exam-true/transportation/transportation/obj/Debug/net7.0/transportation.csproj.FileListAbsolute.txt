@@ -1,0 +1,5 @@
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.csproj.CoreCompileInputs.cache
