@@ -1,0 +1,15 @@
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\bin\Debug\net7.0\inheritence.exe
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\bin\Debug\net7.0\inheritence.deps.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\bin\Debug\net7.0\inheritence.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\bin\Debug\net7.0\inheritence.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\bin\Debug\net7.0\inheritence.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\refint\inheritence.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\inheritence.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\inheritence\inheritence\obj\Debug\net7.0\ref\inheritence.dll
