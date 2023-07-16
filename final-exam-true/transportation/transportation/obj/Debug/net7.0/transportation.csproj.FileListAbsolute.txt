@@ -3,3 +3,13 @@ C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\De
 C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.AssemblyInfoInputs.cache
 C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.AssemblyInfo.cs
 C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\bin\Debug\net7.0\transportation.exe
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\bin\Debug\net7.0\transportation.deps.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\bin\Debug\net7.0\transportation.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\bin\Debug\net7.0\transportation.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\bin\Debug\net7.0\transportation.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\refint\transportation.dll
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.pdb
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\transportation.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\final-exam-true\transportation\transportation\obj\Debug\net7.0\ref\transportation.dll
