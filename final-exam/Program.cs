@@ -1,16 +1,23 @@
-﻿public class Program {
-    public static void Main(string[] args) {
-        Player player = new Player("Player 1");
-        Enemy enemy = new Enemy("Wizard", 100);
+﻿public class Program
+{
+    public static void Main(string[] args)
+    {
+        // buat instance objek dari class BankAccount
+        BankAccount account = new BankAccount(1826749328);
 
-        player.Attack();
-        enemy.Attack();
+        // Menampilkan nomor akun dan saldo awal 
+        // menggunakan string interpolation.
+        Console.WriteLine($"Account Number: {account.AccountNumber}");
+        Console.WriteLine($"Initial Balance: {account.Balance:C}");
 
-        // Polymorphism: Menggunakan referensi kelas Character untuk objek player dan enemy
-        Character character1 = player;
-        Character character2 = enemy;
+        // Memanggil metode Deposit untuk menambahkan saldo
+        account.Deposit(1500);
+        // Memanggil metode Withdraw untuk mengurangi saldo
+        account.Withdraw(500);
 
-        character1.Attack();
-        character2.Attack();
+        // Menampilkan saldo terkini
+        Console.WriteLine($"Curenct Balance: {account.Balance:C}");
+
+        Console.ReadLine();
     }
 }
