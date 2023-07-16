@@ -13,6 +13,12 @@
         System.Console.WriteLine("3. Ticket List");
         System.Console.WriteLine("==========================");
         System.Console.WriteLine("Enter your choice : ");
-        int pilihan = int.Parse(Console.Read());
+        int choice = int.Parse(Console.Read());
+        switch (choice) {
+            case "1":
+                System.Console.WriteLine("Enter your name : ");
+                string name = Console.Read();
+                
+        }
     }
 }
