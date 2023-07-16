@@ -2,6 +2,6 @@
 interface ITicket {
     // colections berupa List<TicketTransportion> tiketList 
     // untuk menyimpan objek-objek dari class TicketTransportion
-    void addTicket(List<TicketTransportion> tiketList);
-    void deleteTicket(List<TicketTransportion> tiketList);
+    void addTicket(List<TicketTransportation> tiketList);
+    void deleteTicket(List<TicketTransportation> tiketList);
 }

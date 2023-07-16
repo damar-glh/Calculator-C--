@@ -1,18 +1,20 @@
-﻿class Program {
+﻿using System.Collections.Generic;
+class Program {
     static void Main(string[] args) {
-        List<TicketTransportion> tiketList = new List<TicketTransportion>();
+        List<TicketTransportation> tiketList = new List<TicketTransportation>();
 
         bool isReply = true;
         while (isReply) {
             // menu
-            System.Console.WriteLine("==========================");
-            System.Console.WriteLine("=   Ticket Transportasi  =");
-            System.Console.WriteLine("==========================");
-            System.Console.WriteLine("1. Add Ticket");
-            System.Console.WriteLine("2. Delete Ticket");
-            System.Console.WriteLine("3. Ticket List");
-            System.Console.WriteLine("==========================");
-            System.Console.Write("Enter your choice : ");
+            Console.WriteLine("============================");
+            Console.WriteLine("=   Ticket Transportation  =");
+            Console.WriteLine("============================");
+            Console.WriteLine("1. Add Ticket");
+            Console.WriteLine("2. Delete Ticket");
+            Console.WriteLine("3. Ticket List");
+            Console.WriteLine("4. Exit");
+            Console.WriteLine("==========================");
+            Console.Write("Enter your choice : ");
             int choice = int.Parse(Console.ReadLine());
             switch (choice) {
                 case 1:
@@ -26,42 +28,45 @@
                     string veccineCardId = Console.ReadLine();
                     Console.Write("Enter your addres : ");
                     string addres = Console.ReadLine();
-                    TicketTransportion ticket = new TicketTransportion(name, nik, phoneNumber, veccineCardId, addres);
+                    TicketTransportation ticket = new TicketTransportation(name, nik, phoneNumber, veccineCardId, addres);
                     ticket.addTicket(tiketList);
                     break;
                 case 2:
-                    if (tiketList.Count > 0) {
-                        Console.WriteLine("=== Tiket saat ini ===");
+                    if (tiketList.Count > 0) {                        
                         for (int i = 0; i < tiketList.Count; i++) {
-                            Console.WriteLine($"Tiket {i + 1}:");
+                            Console.WriteLine($"============== Tiket {i + 1} ==============");
                             tiketList[i].ticketInformation();
                             Console.WriteLine();
                         }
-                        
-                        Console.Write("Pilih tiket yang akan dihapus (1-" + tiketList.Count + "): ");
-                        int nomorTiket = int.Parse(Console.ReadLine());
+                        Console.Write("Select the ticket to delete : ");
+                        int numTicket = int.Parse(Console.ReadLine());
 
-                        if (nomorTiket >= 1 && nomorTiket <= tiketList.Count) {
-                            TicketTransportion tiketTerpilih = tiketList[nomorTiket - 1];
-                            tiketTerpilih.deleteTicket(tiketList);
+                        if (numTicket >= 1 && numTicket <= tiketList.Count) {
+                            TicketTransportation selecTicket = tiketList[numTicket - 1];
+                            selecTicket.deleteTicket(tiketList);
                         } else {
-                            Console.WriteLine("Tiket tidak valid!");
+                            Console.WriteLine("Invalid ticket number !!!");
                         }
                     } else {
-                        Console.WriteLine("Belum ada tiket yang tersedia!");
+                        Console.WriteLine("No tickets available right now !!!");
                     }
                     break;
                 case 3:
                     if (tiketList.Count > 0) {
-                        Console.WriteLine("=== Tiket saat ini ===");
                         for (int i = 0; i < tiketList.Count; i++) {
-                            Console.WriteLine($"Tiket {i + 1}:");
+                            Console.WriteLine($"============== Tiket {i + 1} ==============");
                             tiketList[i].ticketInformation();
                             Console.WriteLine();
                         }
                     } else {
-                        Console.WriteLine("Belum ada tiket yang tersedia!");
+                        Console.WriteLine("No tickets available right now !!!");
                     }
+                    break;
+                case 4:
+                    isReply = false;
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice !!!");
                     break;
             }
         }
