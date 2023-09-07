@@ -1,0 +1,10 @@
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Form1.resources
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe.config
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.exe
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb

@@ -1,0 +1,14 @@
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\bin\Release\net6.0\Masak-Memasak.exe
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\bin\Release\net6.0\Masak-Memasak.deps.json
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\bin\Release\net6.0\Masak-Memasak.runtimeconfig.json
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\bin\Release\net6.0\Masak-Memasak.dll
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\bin\Release\net6.0\Masak-Memasak.pdb
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.GeneratedMSBuildEditorConfig.editorconfig
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.AssemblyInfoInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.AssemblyInfo.cs
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.dll
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\refint\Masak-Memasak.dll
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.pdb
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\Masak-Memasak.genruntimeconfig.cache
+C:\22.11.5209\Pemro-C-Sharp\cook-and-cooking\cooking\Masak-Memasak\obj\Release\net6.0\ref\Masak-Memasak.dll
