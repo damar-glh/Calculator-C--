@@ -1,0 +1,6 @@
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorMachine\bin\Debug\CalculatorMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorMachine\bin\Debug\CalculatorMachine.pdb
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorMachine\obj\Debug\CalculatorMachine.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorMachine\obj\Debug\CalculatorMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorMachine\obj\Debug\CalculatorMachine.pdb

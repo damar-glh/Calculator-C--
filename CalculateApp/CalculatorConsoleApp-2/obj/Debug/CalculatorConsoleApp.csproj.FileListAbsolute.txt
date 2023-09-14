@@ -1,0 +1,10 @@
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\bin\Debug\CalculatorConsoleApp-2.exe.config
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\bin\Debug\CalculatorConsoleApp-2.exe
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\bin\Debug\CalculatorConsoleApp-2.pdb
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\bin\Debug\CalculatorMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\bin\Debug\CalculatorMachine.pdb
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\obj\Debug\CalculatorConsoleApp-2.exe
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorConsoleApp-2\obj\Debug\CalculatorConsoleApp-2.pdb

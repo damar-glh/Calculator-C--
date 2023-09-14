@@ -1,0 +1,6 @@
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojResolveAssemblyReference.cache
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb

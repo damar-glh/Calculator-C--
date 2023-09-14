@@ -8,3 +8,6 @@ C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\Cal
 C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorWindowsFormsApp.pdb
 C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.exe
 C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.pdb
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorMachine.dll
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\bin\Debug\CalculatorMachine.pdb
+C:\22.11.5209\Pemro-C-Sharp\CalculateApp\CalculatorWindowsFormsApp\obj\Debug\CalculatorWindowsFormsApp.csproj.CopyComplete
