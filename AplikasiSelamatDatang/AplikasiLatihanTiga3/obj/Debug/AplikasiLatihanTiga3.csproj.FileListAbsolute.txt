@@ -1,0 +1,10 @@
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb

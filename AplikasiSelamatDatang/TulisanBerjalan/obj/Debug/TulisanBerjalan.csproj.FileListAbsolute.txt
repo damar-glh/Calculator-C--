@@ -1,0 +1,10 @@
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
