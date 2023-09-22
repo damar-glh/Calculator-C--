@@ -1,0 +1,10 @@
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\bin\Debug\Latihan3.3-Layout.exe.config
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\bin\Debug\Latihan3.3-Layout.exe
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\bin\Debug\Latihan3.3-Layout.pdb
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3.3-Layout.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3._3_Layout.Form1.resources
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3._3_Layout.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3.3-Layout.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3.3-Layout.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3.3-Layout.exe
+C:\22.11.5209\Pemro-C-Sharp\AplikasiSelamatDatang\Latihan3.3-Layout\obj\Debug\Latihan3.3-Layout.pdb
