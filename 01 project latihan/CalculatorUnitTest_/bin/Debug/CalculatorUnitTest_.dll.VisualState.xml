@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1005]C:\Users\ASUS\Documents\SOFTWARE TESTING\01 project latihan\CalculatorUnitTest_\bin\Debug\CalculatorUnitTest_.dll</TopNode>
+  <SelectedNode>[0-1005]C:\Users\ASUS\Documents\SOFTWARE TESTING\01 project latihan\CalculatorUnitTest_\bin\Debug\CalculatorUnitTest_.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]C:\Users\ASUS\Documents\SOFTWARE TESTING\01 project latihan\CalculatorUnitTest_\bin\Debug\CalculatorUnitTest_.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]CalculatorUnitTest" Expanded="true" />
+    <Node UniqueName="[0-1000]CalculatorUnitTest.CalculatorTest" Expanded="true" />
+  </Nodes>
+</VisualState>
