@@ -1,0 +1,18 @@
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojResolveAssemblyReference.cache
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.FrmPenjualan.resources
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.Properties.Resources.resources
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.GenerateResource.Cache
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojResolveAssemblyReference.cache
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\obj\Debug\ProjectPenjualan.FrmPenjualan.resources
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\obj\Debug\ProjectPenjualan.Properties.Resources.resources
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\ProjectPenjualan (Lengkap)\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.GenerateResource.Cache

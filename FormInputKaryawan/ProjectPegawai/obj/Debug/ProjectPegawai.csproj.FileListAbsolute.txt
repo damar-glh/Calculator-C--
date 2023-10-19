@@ -1,0 +1,19 @@
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\bin\Debug\ProjectPegawai.exe.config
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\bin\Debug\ProjectPegawai.exe
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\bin\Debug\ProjectPegawai.pdb
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\obj\Debug\ProjectPegawai.csprojResolveAssemblyReference.cache
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\obj\Debug\ProjectPegawai.FrmPegawai.resources
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\obj\Debug\ProjectPegawai.Properties.Resources.resources
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\obj\Debug\ProjectPegawai.csproj.GenerateResource.Cache
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\obj\Debug\ProjectPegawai.exe
+E:\Pemrograman Lanjut\Share materi\02 Praktikum\07 2023 - Responsi\IF 11\ProjectPegawai (Lengkap)\ProjectPegawai\obj\Debug\ProjectPegawai.pdb
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\bin\Debug\ProjectPegawai.exe.config
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\bin\Debug\ProjectPegawai.exe
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\bin\Debug\ProjectPegawai.pdb
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.FrmPegawai.resources
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.exe
+C:\22.11.5209\Pemro-C-Sharp\FormInputKaryawan\ProjectPegawai\obj\Debug\ProjectPegawai.pdb
