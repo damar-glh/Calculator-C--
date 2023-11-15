@@ -1,0 +1,11 @@
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\bin\Debug\delegate-event-eventhandler.exe.config
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\bin\Debug\delegate-event-eventhandler.exe
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\bin\Debug\delegate-event-eventhandler.pdb
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate-event-eventhandler.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate_event_eventhandler.Form2.resources
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate_event_eventhandler.Form1.resources
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate_event_eventhandler.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate-event-eventhandler.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate-event-eventhandler.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate-event-eventhandler.exe
+C:\22.11.5209\Pemro-C-Sharp\delegate-event-eventhandler\delegate-event-eventhandler\obj\Debug\delegate-event-eventhandler.pdb
