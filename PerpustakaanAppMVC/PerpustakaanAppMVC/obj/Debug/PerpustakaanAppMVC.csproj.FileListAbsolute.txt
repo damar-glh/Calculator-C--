@@ -1,0 +1,11 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\09.ADO.NET MVC\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Pemrograman Lanjut\02 Praktik\10 Pertemuan 10\toLab\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\03 2020-2021\01 Ganjil\01 Pemrograman Lanjut\02 Praktik\10 Pertemuan 10\toLab\project\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
