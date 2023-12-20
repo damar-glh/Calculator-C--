@@ -19,17 +19,20 @@ namespace PerpustakaanAppMVC.Controller
         public Mahasiswa ReadByNpm(string npm)
         {
             // membuat objek mahasiswa
-            Mahasiswa mhs = null;
+            //Mahasiswa mhs = null;
 
             // membuat objek context menggunakan blok using
-            using (DbContext context = new DbContext())
+            /*using (DbContext context = new DbContext())
             {
                 // membuat objek dari class repository
                 _repository = new MahasiswaRepository(context);
 
                 // panggil method ReadByNpm yang ada di dalam class repository
                 mhs = _repository.ReadByNpm(npm);
-            }
+            }*/
+
+            var repo = new MahasiswaRestApiRepository();
+            Mahasiswa mhs = repo.ReadByNpm(npm);
 
             return mhs;
         }

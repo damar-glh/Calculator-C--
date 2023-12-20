@@ -79,3 +79,19 @@ C:\22.11.5209\Pemro-C-Sharp\MVC - REST API\MVC - REST API\PerpustakaanAppMVC\Per
 C:\22.11.5209\Pemro-C-Sharp\MVC - REST API\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
 C:\22.11.5209\Pemro-C-Sharp\MVC - REST API\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
 C:\22.11.5209\Pemro-C-Sharp\MVC - REST API\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe.config
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.exe
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\PerpustakaanAppMVC.pdb
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\RestSharp.dll
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.dll
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\RestSharp.xml
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\bin\Debug\System.Data.SQLite.xml
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.AssemblyReference.cache
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.Properties.Resources.resources
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmEntryMahasiswa.resources
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.View.FrmMahasiswa.resources
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.GenerateResource.cache
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CoreCompileInputs.cache
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.csproj.CopyComplete
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.exe
+C:\22.11.5209\Pemro-C-Sharp\MVC - REST API - 12\MVC - REST API\PerpustakaanAppMVC\PerpustakaanAppMVC\obj\Debug\PerpustakaanAppMVC.pdb

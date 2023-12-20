@@ -110,6 +110,22 @@ public class MahasiswaRestApiRepository
 
     public Mahasiswa ReadByNpm(string npm)
     {
-        throw new NotImplementedException();
+        string baseUrl = "http://latihan.coding4ever.net:5555/";
+        var client = new RestClient(baseUrl);
+        var request = new RestRequest("api/mahasiswa", Method.GET);
+        request.AddQueryParameter("npm", npm);
+
+        IRestResponse<Mahasiswa> response = client.Execute<Mahasiswa>(request);
+
+        if (response.IsSuccessful)
+        {
+            return response.Data;
+        }
+        else
+        {
+            // Handle error
+            Console.WriteLine($"Error: {response.ErrorMessage}");
+            return null;
+        }
     }
 }
