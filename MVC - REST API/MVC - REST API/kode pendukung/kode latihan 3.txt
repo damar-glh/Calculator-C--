@@ -1,0 +1,16 @@
+public List<Mahasiswa> ReadAll()
+{
+	string baseUrl = "http://latihan.coding4ever.net:5555/";
+	string endpoint = "api/mahasiswa";
+
+	// membuat objek rest client
+	var client = new RestClient(baseUrl);
+
+	// membuat objek request
+	var request = new RestRequest(endpoint, Method.GET);
+
+	// kirim request ke server
+	var response = client.Execute<List<Mahasiswa>>(request);
+
+	return response.Data;
+}
