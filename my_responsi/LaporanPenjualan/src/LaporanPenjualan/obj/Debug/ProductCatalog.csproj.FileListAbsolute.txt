@@ -1,0 +1,54 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\BookCatalog.Properties.Resources.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\BookCatalog.View.FrmPencarian.resources
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\BookCatalog.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\BookCatalog.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\bin\Debug\BookCatalog.exe.config
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\bin\Debug\BookCatalog.exe
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\bin\Debug\BookCatalog.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\bin\Debug\RestSharp.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\bin\Debug\RestSharp.xml
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\13.Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.CopyComplete
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\02 2019-2020\01 Ganjil\Pemrograman Lanjut\02 Lab\13 Pertemuan 13 (responsi)\to Mahasiswa\ProductCatalog\src\ProductCatalog\obj\Debug\BookCatalog.Properties.Resources.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\02 2019-2020\01 Ganjil\Pemrograman Lanjut\02 Lab\13 Pertemuan 13 (responsi)\to Mahasiswa\ProductCatalog\src\ProductCatalog\obj\Debug\BookCatalog.View.FrmPencarian.resources
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\02 2019-2020\01 Ganjil\Pemrograman Lanjut\02 Lab\13 Pertemuan 13 (responsi)\to Mahasiswa\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.cache
+E:\Data\Dokumen Online\GoogleDrive\My Laptop\Pribadi\Materi Ngajar\02 2019-2020\01 Ganjil\Pemrograman Lanjut\02 Lab\13 Pertemuan 13 (responsi)\to Mahasiswa\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.CoreCompileInputs.cache
+F:\to Lab (Responsi)\02 Soal Aplikasi Pencarian Katalog Produk (Nomor Genap)\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csprojResolveAssemblyReference.cache
+F:\to Lab (Responsi)\02 Soal Aplikasi Pencarian Katalog Produk (Nomor Genap)\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+F:\to Lab (Responsi)\02 Soal Aplikasi Pencarian Katalog Produk (Nomor Genap)\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.View.FrmPencarian.resources
+F:\to Lab (Responsi)\02 Soal Aplikasi Pencarian Katalog Produk (Nomor Genap)\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+F:\to Lab (Responsi)\02 Soal Aplikasi Pencarian Katalog Produk (Nomor Genap)\ProductCatalog\src\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+F:\Lab\Responsi PL MVC - WebService\ProductCatalog\src\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+F:\Lab\Responsi PL MVC - WebService\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csprojResolveAssemblyReference.cache
+F:\Lab\Responsi PL MVC - WebService\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+F:\Lab\Responsi PL MVC - WebService\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.View.FrmPencarian.resources
+F:\Lab\Responsi PL MVC - WebService\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalog\src\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.View.FrmPencarian.resources
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalog\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.exe
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.pdb
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\RestSharp.dll
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\RestSharp.xml
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.View.FrmPencarian.resources
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.exe
+C:\Users\Roedhi\Downloads\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.pdb
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.exe.config
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.exe
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.pdb
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.exe
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.pdb
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\RestSharp.dll
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\bin\Debug\RestSharp.xml
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.csprojResolveAssemblyReference.cache
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.Properties.Resources.resources
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.View.FrmPencarian.resources
+D:\BSI\Responsi\ProductCatalogLengkap\src\ProductCatalog\obj\Debug\ProductCatalog.csproj.GenerateResource.Cache
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\ProductCatalog\bin\Debug\ProductCatalog.exe.config

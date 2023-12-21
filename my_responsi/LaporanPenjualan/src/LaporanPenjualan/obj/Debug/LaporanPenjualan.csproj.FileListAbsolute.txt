@@ -1,0 +1,33 @@
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.exe.config
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.exe
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.pdb
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\bin\Debug\RestSharp.dll
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\bin\Debug\RestSharp.xml
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.Properties.Resources.resources
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.View.FrmPencarian.resources
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csproj.GenerateResource.Cache
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.exe
+D:\BSI\Responsi\LaporanPenjualanLengkap\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.pdb
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.exe.config
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.exe
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.pdb
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csprojResolveAssemblyReference.cache
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.Properties.Resources.resources
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.View.FrmPencarian.resources
+D:\BSI\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csproj.GenerateResource.Cache
+D:\Responsi PL - Des 2023\03 Soal Laporan Penjualan\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.exe.config
+D:\Responsi PL - Des 2023\03 Soal Laporan Penjualan\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.exe
+D:\Responsi PL - Des 2023\03 Soal Laporan Penjualan\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.pdb
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.exe.config
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.exe
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\LaporanPenjualan.pdb
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\RestSharp.dll
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\bin\Debug\RestSharp.xml
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csprojAssemblyReference.cache
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.Properties.Resources.resources
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.View.FrmPencarian.resources
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csproj.GenerateResource.cache
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csproj.CoreCompileInputs.cache
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.csproj.CopyComplete
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.exe
+E:\22.11.5209\Responsi\LaporanPenjualan\src\LaporanPenjualan\obj\Debug\LaporanPenjualan.pdb
